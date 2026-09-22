@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.so
+*.so.*
+*.log
+.env
+.venv/
+build/
+hijack/hp-lib/
+hijack/be-lib/
+.vscode/
+.idea/
